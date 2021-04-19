@@ -1,0 +1,43 @@
+[Version]
+Version=1.0.0.0
+
+[DGSS属性数据可视化编辑.exe <0804>]
+Dest=$(AppPath)
+Date=2021/4/16
+Time=14:50
+Version=1.0.0.0
+CABFilename=DGSS属性数据可视化编辑.CAB
+CABINFFile=DGSS属性数据可视化编辑.INF
+Uses1=msvbvm60.dll
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=VB6CHS.DLL
+Uses8=vbRichClient5.dll
+Uses9=vsflex8.ocx
+Uses10=scrrun.dll
+Uses11=msdatgrd.ocx
+Uses12=COMDLG32.OCX
+Uses13=MSADODC.OCX
+Uses14=MSCOMCTL.OCX
+Uses15=vb_cairo_sqlite.dll
+
+[vbRichClient5.dll <0804>]
+Dest=$(WinSysPath)
+Date=2021/4/2
+Time=11:12
+Version=5.0.0.80
+
+[vsflex8.ocx <0804>]
+Dest=$(WinSysPath)
+Date=2004/7/23
+Time=12:03
+Version=8.0.20044.210
+
+[msstdfmt.dll <0804>]
+Dest=$(WinSysPath)
+Date=2013/12/20
+Time=00:48
+Version=6.1.98.39

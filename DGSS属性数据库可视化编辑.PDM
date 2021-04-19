@@ -1,0 +1,283 @@
+[Root]
+Most Recent Package=标准安装软件包 1
+
+
+[Package|展开文件 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\DGSS属性数据库可视化编辑
+
+[Package|展开文件 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|展开文件 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|展开文件 1|Files Found]
+
+[Package|展开文件 1|Files Released]
+
+[Package|展开文件 1|Missing Dependency Information]
+C:\Windows\SysWOW64\msstdfmt.dll=
+C:\Windows\SysWOW64\vsflex8.ocx=
+C:\Windows\SysWOW64\vbRichClient5.dll=
+
+[Package|展开文件 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+C:\Windows\SysWOW64\COMDLG32.OCX=
+C:\Windows\SysWOW64\msdatgrd.ocx=
+C:\Windows\SysWOW64\scrrun.dll=
+
+[Package|展开文件 1|Files Added]
+D:\0\vb\vb_cairo_sqlite.dll=
+
+[Package|展开文件 1|Files Removed]
+
+[Package|展开文件 1|Files In Project]
+D:\DGSS属性数据库可视化编辑\DGSS属性数据可视化编辑.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Windows\SysWOW64\vbRichClient5.dll=Yes
+C:\Windows\SysWOW64\vsflex8.ocx=Yes
+C:\Windows\SysWOW64\scrrun.dll=Yes
+C:\Windows\SysWOW64\msvcrt.dll=Yes
+C:\Windows\SysWOW64\SCRRNCHS.DLL=Yes
+C:\Windows\SysWOW64\msdatgrd.ocx=Yes
+C:\Windows\SysWOW64\msstdfmt.dll=Yes
+C:\Windows\SysWOW64\DATGDCHS.DLL=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\CMDLGCHS.DLL=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\ADODCCHS.DLL=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\MSCMCCHS.DLL=Yes
+D:\0\vb\vb_cairo_sqlite.dll=Yes
+
+[Package|展开文件 1|Configure Registry Files]
+Applicable=
+
+[Package|展开文件 1|Configure Remote Servers]
+Applicable=
+
+[Package|展开文件 1|Install Locations]
+D:\DGSS属性数据库可视化编辑\DGSS属性数据可视化编辑.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\vbRichClient5.dll=$(WinSysPath)
+C:\Windows\SysWOW64\vsflex8.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\scrrun.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msvcrt.dll=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\SCRRNCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\msdatgrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\msstdfmt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\DATGDCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\ADODCCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCMCCHS.DLL=$(WinSysPath)
+D:\0\vb\vb_cairo_sqlite.dll=$(AppPath)
+
+[Package|展开文件 1|Configure Shared Files]
+Applicable=
+
+[Package|展开文件 1|DepFile]
+DepCabFile=DGSS属性数据可视化编辑.CAB
+DepCabRun=DGSS属性数据可视化编辑.INF
+
+[Package|展开文件 1|Package]
+PackageFolder=D:\DGSS属性数据库可视化编辑
+ProjectFolder=D:\DGSS属性数据库可视化编辑
+ServerSideCab=
+File1=D:\DGSS属性数据库可视化编辑\DGSS属性数据可视化编辑.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|标准安装软件包 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\DGSS属性数据库可视化编辑\包
+
+[Package|标准安装软件包 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 1|Files Found]
+vb_cairo_sqlite.dll=D:\vb\vb_cairo_sqlite.dll
+path.txt=D:\vb\DGSS属性数据库可视化编辑\path.txt
+
+[Package|标准安装软件包 1|Files Released]
+
+[Package|标准安装软件包 1|Missing Dependency Information]
+C:\Windows\SysWOW64\msstdfmt.dll=
+C:\Windows\SysWOW64\vsflex8.ocx=
+C:\Windows\SysWOW64\vbRichClient5.dll=
+C:\Users\brill\Desktop\vb\vsFlex8.ocx=
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=
+C:\Program Files (x86)\Common Files\System\ado\msadomd28.tlb=
+C:\Windows\SysWOW64\vsflex8d.ocx=
+C:\Windows\SysWOW64\vsflex8n.ocx=
+C:\Windows\SysWOW64\vsflex8u.ocx=
+C:\Windows\SysWOW64\vsstr8.ocx=
+C:\Windows\SysWOW64\vsflex8l.ocx=
+C:\Program Files (x86)\Common Files\System\ado\msado25.tlb=
+C:\Windows\SysWOW64\simpdata.tlb=
+C:\Program Files (x86)\Common Files\System\Ole DB\oledb32.dll=
+
+[Package|标准安装软件包 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+C:\Windows\SysWOW64\COMDLG32.OCX=
+C:\Windows\SysWOW64\msdatgrd.ocx=
+C:\Windows\SysWOW64\scrrun.dll=
+
+[Package|标准安装软件包 1|Files Added]
+vb_cairo_sqlite.dll=
+path.txt=
+c:\program files (x86)\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|标准安装软件包 1|Files Removed]
+c:\program files (x86)\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|标准安装软件包 1|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Windows\SysWOW64\vbRichClient5.dll=Yes
+C:\Windows\SysWOW64\scrrun.dll=Yes
+C:\Windows\SysWOW64\msvcrt.dll=Yes
+C:\Windows\SysWOW64\SCRRNCHS.DLL=Yes
+C:\Windows\SysWOW64\msdatgrd.ocx=Yes
+C:\Windows\SysWOW64\msstdfmt.dll=Yes
+C:\Windows\SysWOW64\DATGDCHS.DLL=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\CMDLGCHS.DLL=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\ADODCCHS.DLL=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\MSCMCCHS.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\vb\DGSS属性数据库可视化编辑\DGSS属性数据可视化编辑.exe=Yes
+C:\Users\brill\Desktop\vb\vsFlex8.ocx=Yes
+C:\Windows\SysWOW64\STDFTCHS.DLL=Yes
+D:\vb\vb_cairo_sqlite.dll=Yes
+D:\vb\DGSS属性数据库可视化编辑\path.txt=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Windows\SysWOW64\vsflex8l.ocx=Yes
+C:\Windows\SysWOW64\vsstr8.ocx=Yes
+C:\Windows\SysWOW64\vsflex8u.ocx=Yes
+C:\Windows\SysWOW64\vsflex8n.ocx=Yes
+C:\Windows\SysWOW64\vsflex8d.ocx=Yes
+C:\Windows\SysWOW64\DBADAPT.DLL=Yes
+
+[Package|标准安装软件包 1|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 1|Install Locations]
+D:\DGSS属性数据库可视化编辑\DGSS属性数据可视化编辑.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\vbRichClient5.dll=$(WinSysPath)
+C:\Windows\SysWOW64\vsflex8.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\scrrun.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msvcrt.dll=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\SCRRNCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\msdatgrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\msstdfmt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\DATGDCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\ADODCCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCMCCHS.DLL=$(WinSysPath)
+D:\0\vb\vb_cairo_sqlite.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\DGSS属性数据库可视化编辑\path.txt=$(AppPath)
+D:\vb\DGSS属性数据库可视化编辑\DGSS属性数据可视化编辑.exe=$(AppPath)
+C:\Users\brill\Desktop\vb\vsFlex8.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\STDFTCHS.DLL=$(WinSysPath)
+D:\vb\vb_cairo_sqlite.dll=$(WinSysPath)
+D:\vb\DGSS属性数据库可视化编辑\path.txt=$(AppPath)
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Windows\SysWOW64\vsflex8l.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\vsstr8.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\vsflex8u.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\vsflex8n.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\vsflex8d.ocx=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msadomd28.tlb=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado25.tlb=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\Ole DB\oledb32.dll=$(WinSysPath)
+C:\Windows\SysWOW64\simpdata.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\DBADAPT.DLL=$(WinSysPathSysFile)
+
+[Package|标准安装软件包 1|Configure Shared Files]
+Applicable=Yes
+D:\DGSS属性数据库可视化编辑\DGSS属性数据可视化编辑.exe=Yes
+D:\DGSS属性数据库可视化编辑\path.txt=Yes
+D:\vb\DGSS属性数据库可视化编辑\DGSS属性数据可视化编辑.exe=Yes
+D:\vb\vb_cairo_sqlite.dll=Yes
+D:\vb\DGSS属性数据库可视化编辑\path.txt=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|标准安装软件包 1|DepFile]
+DepCabFile=DGSS属性数据可视化编辑.CAB
+DepCabRun=DGSS属性数据可视化编辑.INF
+
+[Package|标准安装软件包 1|Distribution]
+Type=single
+Size=
+Title=DGSS属性数据可视化编辑
+
+[Package|标准安装软件包 1|Package]
+PackageFolder=D:\DGSS属性数据库可视化编辑\包
+ProjectFolder=D:\vb\DGSS属性数据库可视化编辑
+ServerSideCab=
+File1=D:\DGSS属性数据库可视化编辑\包\setup.exe
+File2=D:\DGSS属性数据库可视化编辑\包\Setup.Lst
+File3=D:\DGSS属性数据库可视化编辑\包\DGSS属性数据可视化编辑.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|标准安装软件包 1|IconGroups]
+Group0=DGSS属性数据可视化编辑
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|标准安装软件包 1|DGSS属性数据可视化编辑]
+Icon1=DGSS属性数据可视化编辑.exe
+Title1=DGSS属性数据可视化编辑
+StartIn1=$(AppPath)
+Key1=Icon1

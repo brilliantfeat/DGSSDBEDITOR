@@ -1,0 +1,8 @@
+cState = 0, 0, 0, 0, C
+cHistoryList = 0, 0, 0, 0, C
+connection = 26, 26, 880, 444, C
+mdlvsFlexGrid = 459, 65, 1232, 509, C
+MainFM = 12, 5, 1111, 704, , -5, -12, 1272, 728, C
+Form2 = 0, 0, 0, 0, C, 78, 78, 865, 496, C
+setpath = 130, 130, 903, 574, C
+Filesearch = 104, 104, 877, 548, C
